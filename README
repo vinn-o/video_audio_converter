@@ -1,0 +1,6 @@
+-This bash script is for convertion video to audio without needing ad filled apps and it feels cool :).
+-Install ffmpeg----in ubuntu sudo apt install ffmpeg
+                |--in windows, I have no idea yet
+-For simplicity place the .mp4 file in the same  folder the script is at, replace the ***.mp4 with the name of your file and ****.mp3 with any name you prefer for your audio file.
+-Run the script in the terminal with bash video_to_audio.sh.
+-Your output audio will be in the same file directory.
